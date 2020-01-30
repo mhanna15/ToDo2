@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import Todos from '/Users/minaghanna/Desktop/todo/src/Todos.js'
-import AddTodo from '/Users/minaghanna/Desktop/todo/src/AddTodo.js'
+import Todos from './Todos.js'
+import AddTodo from './AddTodo.js'
 
 class App extends Component {
   state = {
